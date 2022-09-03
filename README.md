@@ -18,9 +18,7 @@
 
 
 ### Glad to see you here!  
-Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜.
-
-I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
+Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
    
 
 <br/>  
