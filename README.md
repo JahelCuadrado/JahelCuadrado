@@ -18,9 +18,12 @@
 <p style="width:200px; float:left; padding-top:70px ">
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
 </p>
-
+<a src=#>
 <img src=https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/night%20code.gif style="width:200px;">
+</a>
+<a src=#>
 <img src=https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif>
+</a>
 
 
 <br/>  
