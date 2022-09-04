@@ -34,10 +34,10 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 
 <table><tr><td valign="top" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JahelCuadrado&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahelcuadrado&theme=dracula) 
 
 </td><td valign="top" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahelCuadrado&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahelcuadrado&theme=dracula) 
 
 </td></tr></table>  
