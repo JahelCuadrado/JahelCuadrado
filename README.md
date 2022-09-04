@@ -32,12 +32,13 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 
 # Github Stats  
 
-<table><tr><td valign="top" width="30%">
-
+<table>
+<tr style="border-style:none">
+<td style="border-style:none">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahelcuadrado&theme=dracula) 
-
-</td><td valign="top" width="30%">
-
+</td>
+<td style="border-style:none">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahelcuadrado&theme=dracula) 
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
