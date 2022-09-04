@@ -15,24 +15,24 @@
 
 <br/>  
   
-# Glad to see you here <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
+## Glad to see you here <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
 
 
 <p style="text-size:20px">
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
 </p>
-<img src=https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif style="width:100%; float:right">
+
 
 
 <br/>  
 
-# Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+## Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,angular,bash,bootstrap,cs,css,django,eclipse,firebase,git,github,gradle,heroku,java,js,jquery,kotlin,linux,md,mongodb,mysql,nodejs,php,postgres,powershell,py,spring,stackoverflow,selenium,swift,ts,unity,visualstudio,vscode,wordpress,xd&perline=13)](https://skillicons.dev)  
 
 <br/>  
 
-# Github Stats  
+## Github Stats  
 
 <table>
 <tr style="border-style:none">
