@@ -19,7 +19,7 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 
 <br/>  
 
-# Languages and Tools  
+# Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
