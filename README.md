@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-## Glad to see you here  
+## Glad to see you here <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> 
 
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
 
