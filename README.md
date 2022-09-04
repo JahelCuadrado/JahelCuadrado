@@ -19,9 +19,8 @@
 ## Glad to see you here <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
 
 <img align="right" src = "https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width = 200px height=200px>
-<p width = 400px>
-<br/>  
-<br/>  
+<p>
+<br/>   
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
 </p>
 
@@ -35,7 +34,7 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 
 <br/>  
 
-## Github Stats <img src = "https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width = 32px height=32px>
+## Github Stats <img src = "https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width = 32px height=32px>
 
 <table>
 <tr style="border-style:none">
