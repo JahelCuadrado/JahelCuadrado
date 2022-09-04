@@ -1,5 +1,5 @@
-## Hey 👋, I'm Jahel Cuadrado  
-  
+
+<img src=https://i.imgur.com/m6QtAp1.png style="margin-bottom: 5px;" />
 <a href="https://github.com/JahelCuadrado" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-### Glad to see you here  
+## Glad to see you here  
 
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
 
