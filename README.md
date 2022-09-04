@@ -20,6 +20,7 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 </p>
 
 <img src=https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif>
+<img src=https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/night%20code.gif>
 
 
 <br/>  
