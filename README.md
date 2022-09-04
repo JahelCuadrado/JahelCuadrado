@@ -15,12 +15,12 @@
   
 # Glad to see you here <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
 
-<div style="width:400px; float:left; padding-top:70px ">
+<p style="width:400px; float:left; padding-top:70px ">
 Hello, my name is Jahel, I'm in the programming world since I was 15 years old, I love to develop and learn. I am a student and I will be for the rest of my life 😜. I specialize in mobile development with Kotlin 📱 and web development with Angular 🖥️. I also love Python 🐍  
-</div>
-<div  style="float:left">
+</p>
+
 <img src=https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif>
-</div>
+
 
 <br/>  
 
