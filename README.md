@@ -32,7 +32,7 @@ Hello, my name is Jahel, I'm in the programming world since I was 15 years old, 
 
 ## Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,netlify,postman,docker,daws,androidstudio,angular,bash,bootstrap,cs,css,django,eclipse,firebase,git,github,gradle,heroku,java,js,jquery,kotlin,linux,md,mongodb,mysql,nodejs,php,postgres,powershell,py,spring,stackoverflow,selenium,swift,ts,unity,visualstudio,vscode,wordpress,xd&perline=13)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,netlify,postman,docker,androidstudio,angular,bash,bootstrap,cs,css,django,eclipse,firebase,git,github,gradle,heroku,java,js,jquery,kotlin,linux,md,mongodb,mysql,nodejs,php,postgres,powershell,py,spring,stackoverflow,selenium,swift,ts,unity,visualstudio,vscode,wordpress,xd&perline=13)](https://skillicons.dev)  
 
 <br/>  
 
