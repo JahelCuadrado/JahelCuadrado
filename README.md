@@ -58,3 +58,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- refine skills section -->
 <!-- improve stats display -->
 <!-- clean up markdown syntax -->
+<!-- update social links format -->
