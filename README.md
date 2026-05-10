@@ -54,3 +54,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 </table>  
 <!-- pair-extraordinaire -->
 <!-- update profile layout spacing -->
+<!-- adjust header formatting -->
