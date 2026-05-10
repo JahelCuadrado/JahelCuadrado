@@ -51,19 +51,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 
 </td>
 </tr>
-</table>  
-<!-- pair-extraordinaire -->
-<!-- update profile layout spacing -->
-<!-- adjust header formatting -->
-<!-- refine skills section -->
-<!-- improve stats display -->
-<!-- clean up markdown syntax -->
-<!-- update social links format -->
-<!-- fix typo in bio section -->
-<!-- optimize image references -->
-<!-- standardize badge styling -->
-<!-- refactor section headers -->
-<!-- update language icons order -->
-<!-- improve readme readability -->
-<!-- adjust footer alignment -->
-<!-- normalize whitespace -->
+</table>
