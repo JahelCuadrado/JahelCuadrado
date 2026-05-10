@@ -66,3 +66,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- update language icons order -->
 <!-- improve readme readability -->
 <!-- adjust footer alignment -->
+<!-- normalize whitespace -->
