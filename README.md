@@ -56,3 +56,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- update profile layout spacing -->
 <!-- adjust header formatting -->
 <!-- refine skills section -->
+<!-- improve stats display -->
