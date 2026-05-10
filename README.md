@@ -62,3 +62,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- fix typo in bio section -->
 <!-- optimize image references -->
 <!-- standardize badge styling -->
+<!-- refactor section headers -->
