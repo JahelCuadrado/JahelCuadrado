@@ -121,8 +121,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahelCuadrado&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahelCuadrado&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=10" height="180" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JahelCuadrado&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JahelCuadrado&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=10" height="180" alt="Languages" />
 </div>
 
 <br/>
@@ -134,7 +134,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JahelCuadrado&theme=dracula&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JahelCuadrado&theme=dracula&hide_border=true&radius=12&area=true&from=2026-01-01&to=2026-12-31" width="95%" alt="Activity Graph" />
 </div>
 
 <!-- SNAKE ANIMATION -->
