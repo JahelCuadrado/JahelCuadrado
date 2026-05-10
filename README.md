@@ -65,3 +65,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- refactor section headers -->
 <!-- update language icons order -->
 <!-- improve readme readability -->
+<!-- adjust footer alignment -->
