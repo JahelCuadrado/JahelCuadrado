@@ -60,3 +60,4 @@ Hello 👋, my name is Jahel, I'm in the programming world since I was 15 years 
 <!-- clean up markdown syntax -->
 <!-- update social links format -->
 <!-- fix typo in bio section -->
+<!-- optimize image references -->
